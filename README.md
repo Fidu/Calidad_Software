@@ -9,9 +9,8 @@ Y yo david O,..,O
 dasda
 Más
 
-<<<<<<< HEAD
+
 Yo añado cositas :D (>.<)
 
-=======
 LO
->>>>>>> origin/master
+
